@@ -1,0 +1,340 @@
+This serial is open
+HITCON 2015 NANO GAME
+
+Nano$ [0] Morse
+Nano$ [1] Maze
+Nano$ [2] Calculator
+Nano$ enter your choice:
+
+User$ choice [1] Maze
+
+Nano$ activate Maze
+
+Nano$ I WANT TO PLAY A GAME !
+Nano$ now, you are in (0,0) of an unknown maze.
+Nano$ you must reach (14, 14) of this maze.
+Nano$ you have ten seconds to reach it.
+Nano$ the 'O' is where you are.
+Nano$ the '.' mark is road.
+Nano$ the '+' mark is wall.
+Nano$ send [w] to move up
+Nano$ send [d] to move right
+Nano$ send [s] to move down
+Nano$ send [a] to move left
+O.+
++..
+.++
+Nano$ show map
+1 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+2 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+3 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+4 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+5 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+6 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+7 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+8 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+9 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+10 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+11 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+12 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+13 1
+
+User$ send [s]
+
+O.+
++..
+.++
+Nano$ show map
+14 1
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 2
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 3
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 4
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 5
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 6
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 7
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 8
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 9
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 10
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 11
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 12
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 13
+
+User$ send [d]
+
+.O+
++..
+.++
+Nano$ show map
+14 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+13 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+12 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+11 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+10 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+9 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+8 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+7 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+6 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+5 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+4 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+3 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+2 14
+
+User$ send [w]
+
+.O+
++..
+.++
+Nano$ show map
+1 14
